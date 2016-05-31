@@ -4,14 +4,14 @@ TeacherCoursesVxx.exe
 May 2016
 Andrew Colwell (Saint John High School)
 
-Extract and save the folder on your hard drive.
+## On the right of this screen, click the 'Clone or Download' button, and save the ZIP file
+## Extract and save the files in an easy to locate place on your computer (Desktop is good)
 
-The example requires the user to get data from PowerScheduler.
-In PowerScheduler, go to: Reports, Master Schedule List (don't change options), Submit
-Manually select and copy all the data below the headings, and save into a simple text file.
-
-Double click on TeacherCoursesVxx.exe
-You will be prompted to open a file. Open the text file you previously saved.
+You must get data from PowerScheduler first.
+1. In PowerScheduler, go to: Reports, Master Schedule List (don't change options), Submit
+2. Manually select and copy all the data below the headings, and save into a simple text file. (Notepad)
+3. Double click on TeacherCoursesVxx.exe
+4. You will be prompted to open a file. Open the text file you previously saved.
 
 The program will create an Excel spreadsheet in the same directory with the same name as the text file.
 The new file will be an ".xlsx' file ready to be opened in Excel.
