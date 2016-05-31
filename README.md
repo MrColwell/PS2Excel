@@ -16,13 +16,14 @@ You must get data from PowerScheduler first.
 The program will create an Excel spreadsheet in the same directory with the same name as the text file.
 The new file will be an ".xlsx' file ready to be opened in Excel.
 
+Current Version TeacherCoursesV2d.exe (May 27, 2016)
+
 Known Bugs/Conflicts/Issues
-V2d
   * You need to have Windows update: KB2999226
   * You need to select data with Google Chrome (as of May2016) (Data in notepad should be tab separated)
   * Multiple Days in PowerScheduler not supported (only A at the moment)
 
- To Add
+Will be added in future:
   * Number enrolled in class to be added to display
   * Section number to be added to Course
   * Count per block to be added at bottom of spreadsheet
