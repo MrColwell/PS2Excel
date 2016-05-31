@@ -4,8 +4,8 @@ TeacherCoursesVxx.exe
 May 2016
 Andrew Colwell (Saint John High School)
 
-## On the right of this screen, click the 'Clone or Download' button, and save the ZIP file
-## Extract and save the files in an easy to locate place on your computer (Desktop is good)
+### On the right of this screen, click the 'Clone or Download' button, and save the ZIP folder
+### Extract and save the files in the Zip folder in an easy to locate place on your computer (Desktop is good)
 
 You must get data from PowerScheduler first.
   1. In PowerScheduler, go to: Reports, Master Schedule List (don't change options), Submit
