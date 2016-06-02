@@ -19,7 +19,7 @@ The new file will be an ".xlsx' file ready to be opened in Excel.
 Current Version TeacherCoursesV2d.exe (May 27, 2016)
 
 Known Bugs/Conflicts/Issues
-  * You need to have Windows update: KB2999226
+  * You need to have Windows update: KB2999226 (Part of Zip file; you may need admin rights to run it)
   * You need to select data with Google Chrome (as of May2016) (Data in notepad should be tab separated)
   * Multiple Days in PowerScheduler not supported (only A at the moment)
 
