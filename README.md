@@ -28,5 +28,5 @@ Will be added in future:
 - [x] Multiple Days supported
 - [ ] Number enrolled in class to be added to display
 - [ ] Section number to be added to Course
-- [ ] Count per block to be added at bottom of spreadsheet
+- [ ] Count per period to be added at bottom of spreadsheet
 - [ ] Courses over multiple blocks (Coop) (currently shows to right of spreadsheet)
