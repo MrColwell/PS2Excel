@@ -24,9 +24,9 @@ Known Bugs/Conflicts/Issues
   * Multiple Days in PowerScheduler not supported (only A at the moment)
 
 Will be added in future:
-  * Work with MS Internet Explorer (as well as Google Chrome)
-  * Multiple Days supported
-  * Number enrolled in class to be added to display
-  * Section number to be added to Course
-  * Count per block to be added at bottom of spreadsheet
-  * Courses over multiple blocks (Coop) (currently shows to right of spreadsheet)
+  [ ] Work with MS Internet Explorer (as well as Google Chrome) 
+  [ ] Multiple Days supported
+  [ ] Number enrolled in class to be added to display
+  [ ] Section number to be added to Course
+  [ ] Count per block to be added at bottom of spreadsheet
+  [ ] Courses over multiple blocks (Coop) (currently shows to right of spreadsheet)
