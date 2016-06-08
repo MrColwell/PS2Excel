@@ -23,13 +23,14 @@ Will be added in future:
 - [ ] Section number to be added to Course
 - [ ] Count per period to be added at bottom of spreadsheet
 - [ ] Courses over multiple blocks (Coop only shows in first period scheduled)
+- [ ] Google Chrome preferred to select data, MS IE not working yet
 
 Known Bugs/Conflicts/Issues
   * You need to have Windows update: KB2999226 (Part of Zip file; you may need admin rights to run it)
   * You need to select data with Google Chrome (as of May2016) (Data in notepad should be tab separated)
   * Multiple Days in PowerScheduler not supported (only A at the moment) 
-- [x] Google Chrome preferred to select data, but MSInternet Explorer now working
-- [x] Multiple Days supported
+
+- [x] Multiple Days supported (as of V2f)
 
 Old Versions:
 TeacherCoursesV2d.exe (May 27, 2016)
