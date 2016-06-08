@@ -1,7 +1,7 @@
 # PS2Excel
 
-TeacherCoursesVxx.exe
-May 2016
+TeacherCoursesV2e.exe
+June 7, 2016
 Andrew Colwell (Saint John High School)
 
 ##### On the right of this screen, click the 'Clone or Download' button, and save the ZIP folder
@@ -16,17 +16,20 @@ You must get data from PowerScheduler first.
 The program will create an Excel spreadsheet in the same directory with the same name as the text file.
 The new file will be an ".xlsx' file ready to be opened in Excel.
 
-Current Version TeacherCoursesV2d.exe (May 27, 2016)
+Current Version: TeacherCoursesV2e.exe (June 7, 2016)
+
+Will be added in future:
+- [ ] Number enrolled in class to be added to display
+- [ ] Section number to be added to Course
+- [ ] Count per period to be added at bottom of spreadsheet
+- [ ] Courses over multiple blocks (Coop only shows in first period scheduled)
 
 Known Bugs/Conflicts/Issues
   * You need to have Windows update: KB2999226 (Part of Zip file; you may need admin rights to run it)
   * You need to select data with Google Chrome (as of May2016) (Data in notepad should be tab separated)
-  * Multiple Days in PowerScheduler not supported (only A at the moment)
-
-Will be added in future:
-- [x] Work with MS Internet Explorer (as well as Google Chrome) 
+  * Multiple Days in PowerScheduler not supported (only A at the moment) 
+- [x] Google Chrome preferred to select data, but MSInternet Explorer now working
 - [x] Multiple Days supported
-- [ ] Number enrolled in class to be added to display
-- [ ] Section number to be added to Course
-- [ ] Count per period to be added at bottom of spreadsheet
-- [ ] Courses over multiple blocks (Coop) (currently shows to right of spreadsheet)
+
+Old Versions:
+TeacherCoursesV2d.exe (May 27, 2016)
