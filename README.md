@@ -21,7 +21,6 @@ Current Version: TeacherCoursesV2e.exe (June 7, 2016)
 Will be added in future:
 - [ ] Number enrolled in class to be added to display
 - [ ] Section number to be added to Course
-- [ ] Count per period to be added at bottom of spreadsheet
 - [ ] Courses over multiple blocks (Coop only shows in first period scheduled)
 - [ ] Google Chrome preferred to select data, MS IE not working yet
 
@@ -31,6 +30,8 @@ Known Bugs/Conflicts/Issues
   * Multiple Days in PowerScheduler not supported (only A at the moment) 
 
 - [x] Multiple Days supported (as of V2f)
+- [x] Count per period to be added at bottom of spreadsheet
+- [x] Count of classes per teacher on left (Co-op only counted as one course)
 
 Old Versions:
 TeacherCoursesV2d.exe (May 27, 2016)
