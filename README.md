@@ -16,22 +16,19 @@ You must get data from PowerScheduler first.
 The program will create an Excel spreadsheet in the same directory with the same name as the text file.
 The new file will be an ".xlsx' file ready to be opened in Excel.
 
-Current Version: TeacherCoursesV2e.exe (June 7, 2016)
+Current Version: TeacherCoursesV2g.exe (June 14, 2016)
 
 Will be added in future:
-- [ ] Number enrolled in class to be added to display
-- [ ] Section number to be added to Course
-- [ ] Courses over multiple blocks (Coop only shows in first period scheduled)
-- [ ] Google Chrome preferred to select data, MS IE not working yet
+- [ ] Courses over multiple blocks (Coop only shows in first period scheduled, you should manually fill in other periods)
+- [ ] Google Chrome preferred to select data, MS IE not working properly yet
 
 Known Bugs/Conflicts/Issues
   * You need to have Windows update: KB2999226 (Part of Zip file; you may need admin rights to run it)
   * You need to select data with Google Chrome (as of May2016) (Data in notepad should be tab separated)
-  * Multiple Days in PowerScheduler not supported (only A at the moment) 
-
+  * Multiple Days in PowerScheduler are supported (but not recommended)
+- [x] Section number to be added to Course
+- [x] Number enrolled in class to be added to display
 - [x] Multiple Days supported (as of V2f)
 - [x] Count per period to be added at bottom of spreadsheet
 - [x] Count of classes per teacher on left (Co-op only counted as one course)
 
-Old Versions:
-TeacherCoursesV2d.exe (May 27, 2016)
