@@ -17,9 +17,7 @@ The program will create an Excel spreadsheet in the same directory with the same
 The new file will be an ".xlsx' file ready to be opened in Excel.
 
 The courses now appear as:
-Nutr Hlth Living 120(1:29)(A)
---------------------|-----|---
-Course name(Section:Enrolled)(Day)
+Nutr Hlth Living 120(1:29)(A)  <==>  Course name(Section:Enrolled)(Day)
 
 Current Version: TeacherCoursesV2g.exe (June 14, 2016)
 
