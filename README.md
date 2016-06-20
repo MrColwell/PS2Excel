@@ -4,10 +4,12 @@ Current Version: TeacherCoursesV2g.exe (June 14, 2016)
 
 Andrew Colwell (Saint John High School)
 
+This little program converts data captured from PowerScheduler report and prints out into an Excel spreadsheet which our school uses frequently as a means to share information. Developed for my own high school, other highschools in the district found it useful and suggested some changes. A few more schools in other districts wanted to use it as well. I now host here. It may be an integrated report in PowerScheduler in the future. I hope that Pearson would be kind enough to acknowledge this project.
+
 ##### On the right of this screen, click the 'Clone or Download' button, and save the ZIP folder
 ##### Extract and save the files in the Zip folder in an easy to locate place on your computer (Desktop is good)
 
-You must get data from PowerScheduler first.
+######You must get data from PowerScheduler first.
   1. In PowerScheduler, go to: Reports, Master Schedule List (don't change options), Submit
   2. Manually select and copy all the data below the headings, and save into a simple text file. (Notepad)
   3. Double click on TeacherCoursesVxx.exe
@@ -19,9 +21,10 @@ The new file will be an ".xlsx' file ready to be opened in Excel.
 The courses now appear as:
 Nutr Hlth Living 120(1:29)(A)  <==>  Course name(Section:Enrolled in section)(Day)
 
-Will be added in future:
+Will be added in future(?):
 - [ ] Courses over multiple blocks (Coop only shows in first period scheduled, you should manually fill in other periods)
-- [ ] Google Chrome preferred to select data, MS IE not working properly yet
+- [ ] Data Collection: Google Chrome preferred to select data, MS IE not working properly yet
+- [ ] Integration with PowerScheduler (get data directly without browser? PowerScheduler Report?)
 
 Known Bugs/Conflicts/Issues:
   * You need to have Windows update: KB2999226 (Part of Zip file; you may need admin rights to run it)
