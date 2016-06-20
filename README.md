@@ -1,6 +1,7 @@
 # PS2Excel
 
-TeacherCoursesV2g.exe (June 14, 2016)
+Current Version: TeacherCoursesV2g.exe (June 14, 2016)
+
 Andrew Colwell (Saint John High School)
 
 ##### On the right of this screen, click the 'Clone or Download' button, and save the ZIP folder
