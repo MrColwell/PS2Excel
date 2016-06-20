@@ -1,7 +1,6 @@
 # PS2Excel
 
-TeacherCoursesV2e.exe
-June 7, 2016
+TeacherCoursesV2g.exe (June 14, 2016)
 Andrew Colwell (Saint John High School)
 
 ##### On the right of this screen, click the 'Clone or Download' button, and save the ZIP folder
@@ -17,9 +16,7 @@ The program will create an Excel spreadsheet in the same directory with the same
 The new file will be an ".xlsx' file ready to be opened in Excel.
 
 The courses now appear as:
-Nutr Hlth Living 120(1:29)(A)  <==>  Course name(Section:Enrolled)(Day)
-
-Current Version: TeacherCoursesV2g.exe (June 14, 2016)
+Nutr Hlth Living 120(1:29)(A)  <==>  Course name(Section:Enrolled in section)(Day)
 
 Will be added in future:
 - [ ] Courses over multiple blocks (Coop only shows in first period scheduled, you should manually fill in other periods)
