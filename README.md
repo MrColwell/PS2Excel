@@ -31,6 +31,7 @@ Known Bugs/Conflicts/Issues:
   * Multiple Days in PowerScheduler are put into same block on semester 1 spreadsheet
     - yes, its sketchy, but very few school run multiple days
     - if you run a single day, in the Excel spreadsheet, press Ctrl+H find: (A) and replace with nothing 
+
 Fixed issues:
 - [x] Section number added to Course 
 - [x] Number enrolled in class to be added to display
