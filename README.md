@@ -29,8 +29,8 @@ Known Bugs/Conflicts/Issues:
   * You need to have Windows update: KB2999226 (Part of Zip file; you may need admin rights to run it)
   * You need to select data with Google Chrome (as of May2016) (Data in notepad should be tab separated)
   * Multiple Days in PowerScheduler are put into same block on semester 1 spreadsheet
-    - yes, its sketchy, but very few school run multiple days
-    - if you run a single day, in the Excel spreadsheet, press Ctrl+H find: (A) and replace with nothing 
+    - yes, its sketchy, but very few schools run multiple days
+    - if you run a single day, in the Excel spreadsheet, press Ctrl+H, Find: (A) and replace with nothing 
 
 Fixed issues:
 - [x] Section number added to Course 
