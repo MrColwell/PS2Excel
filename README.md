@@ -25,11 +25,14 @@ Will be added in future:
 - [ ] Courses over multiple blocks (Coop only shows in first period scheduled, you should manually fill in other periods)
 - [ ] Google Chrome preferred to select data, MS IE not working properly yet
 
-Known Bugs/Conflicts/Issues
+Known Bugs/Conflicts/Issues:
   * You need to have Windows update: KB2999226 (Part of Zip file; you may need admin rights to run it)
   * You need to select data with Google Chrome (as of May2016) (Data in notepad should be tab separated)
-  * Multiple Days in PowerScheduler are supported (but not recommended)
-- [x] Section number to be added to Course
+  * Multiple Days in PowerScheduler are put into same block on semester 1 spreadsheet
+    - yes, its sketchy, but very few school run multiple days
+    - if you run a single day, in the Excel spreadsheet, press Ctrl+H find: (A) and replace with nothing 
+Fixed issues:
+- [x] Section number added to Course 
 - [x] Number enrolled in class to be added to display
 - [x] Multiple Days supported (as of V2f)
 - [x] Count per period to be added at bottom of spreadsheet
